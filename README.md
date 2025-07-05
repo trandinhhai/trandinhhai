@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - Learning about Deep Learning, and AI-driven Web Applications.
 
 ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/dh.doa76/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=logo=Facebook&logoColor=white)](https://www.facebook.com/dh.doa76/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dh.doaindahouse/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%E1%BA%A3i-tr%E1%BA%A7n-5a5752228/)
 
